@@ -25,3 +25,49 @@ Consists of 506 samples with the following categories:
 |MEDV   |  Median value of owner-occupied homes in $1000's |
 
 For analysis, fields were isolated and then compared using [Matplotlib](http://matplotlib.org/) for visualization.
+
+## Seattle Trees
+
+Analysis of the Washington DC Tree data, compiling current data on Urban Forestry Administration (UFA) managed trees and tree locations in DC, from [Open Data DC](http://opendata.dc.gov/datasets/urban-forestry-street-trees).
+
+Consists of 170,975 samples with the following categories:
+
+| Field | Description |
+|-------|-------------|
+|X|Latitude of location|
+|Y|Longitude of location|
+|OBJECTID|Internal feature number|
+|FACILITYID|Unique Tree Identifier|
+|VICINITY|address in immediate vicinity of the tree|
+|WARD|Ward|
+|TBOX_L|Tree box length|
+|TBOX_W|Tree box width|
+|WIRES|Overhead eletrical wires|
+|CURB|Curb Type|
+|SIDEWALK|Sidewalk Type|
+|TBOX_STAT|Plantable status of location|
+|RETIREDDT|Date of location retirement|
+|SCI_NM|Scientific Name|
+|CMMN_NM|Common Name|
+|DATE_PLANT|most recent planting date of location|
+|DBH|diameter at breast height (This tree girth is commonly measured at 4.5 feet from the soil surface.)|
+|DISEASE|Observation of tree disease incidence|
+|PESTS|Observation of tree pest incidence|
+|CONDITION|Generalized tree health via visual inspection|
+|CONDITIODT|Most recent date of condition inspection|
+|OWNERSHIP|Ownership of tree|
+|TREE_NOTES|Comments|
+|ONEYEARPHOTO||
+|SPECIALPHOTO||
+|PHOTOREMARKS||
+|ELEVATION|Level of soil at base of tree or in tree box|
+|SIGN|Type of sign in close proximity to tree|
+|TRRS||
+|WARRANTY|Planting season when plant warranty began|
+|FAM_NAME|Scientific family name|
+|CREATED_USER||
+|CREATED_DATE||
+|EDITEDBY||
+|LAST_EDITED_USER||
+|LAST_EDITED_DATE||
+|GENUS_NAME|Scientific genus name|

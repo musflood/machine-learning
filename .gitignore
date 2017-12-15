@@ -200,3 +200,5 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/macos,linux,python,windows,sublimetext
+
+Urban_Forestry_Street_Trees.csv
